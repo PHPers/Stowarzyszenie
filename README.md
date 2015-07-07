@@ -1,3 +1,3 @@
 # Stowarzyszenie PHPers
 
-Repozytorium 
+Repozytorium zawierające pliki robocze do założenia stowarzyszenia PHPers.
