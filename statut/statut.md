@@ -31,7 +31,7 @@ Stowarzyszenie posiada osobowość prawną.
 #### §7
 
 1. Stowarzyszenie może być członkiem innych krajowych organizacji zainteresowanych tym samym lub podobnym profilem działania.
-2. O przystąpieniu do organizacji, o których mowa w ust. 1, bądź wystąpieniu z nich, decyduje Walne Zgromadzenie Członków zwykłą większością głosów.
+2. O przystąpieniu do organizacji, o których mowa w ust. 1, bądź wystąpieniu z nich, decyduje Walne Zebranie zwykłą większością głosów.
 
 #### §8
 
