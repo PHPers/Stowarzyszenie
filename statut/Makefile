@@ -1,16 +1,25 @@
-all: statut.html
+inputFiles:=$(wildcard *.md)
+partialFiles=$(patsubst %.md,%-in.html,$(inputFiles))
+outputFiles:=$(patsubst %.md,%.html,$(inputFiles))
 
+all: out $(outputFiles)
 
-statut.html: statut.md data/statut-header.html data/statut-footer.html data/style.css
-	pandoc statut.md -o statut-in.html
-	cat data/statut-header.html statut-in.html data/statut-footer.html > statut.html
+%.html:
+	pandoc $(patsubst %.html,%.md,$@) -o $(patsubst %.html,%-in.html,$@)
+	cat data/statut-header $(patsubst %.html,%-in.html,$@) data/statut-footer > out/$@
+	rm $(patsubst %.html,%-in.html,$@)
 
 clean:
-	rm -f statut-in.html
-	rm -f statut.html
+	rm -f $(partialFiles)
+	rm -f $(outputFiles)
 	rm -rf out
 
-out: statut.html
+out: data/style.css data/normalize.css
 	mkdir -p out
-	cp statut.html out/
 	cp data/style.css data/normalize.css out/
+
+data/normalize.css:
+	cp data/normalize.css out/
+
+data/style.css:
+	cp data/style.css out/

@@ -35,7 +35,8 @@ Stowarzyszenie posiada osobowość prawną.
 
 #### §8
 
-Stowarzyszenie ma prawo używania własnych pieczęci, oznak i znaków organizacyjnych, z zachowaniem obowiązujących przepisów.
+1. Stowarzyszenie ma prawo używania własnych pieczęci, oznak i znaków organizacyjnych, z zachowaniem obowiązujących przepisów.
+2. Nazwa i symbole wykorzystywane przez Stowarzyszenie podlegają ochronie prawnej.
 
 ## Rozdział II
 
@@ -63,19 +64,19 @@ Stowarzyszenie – działając zgodnie z prawem obowiązującym w Rzeczpospolite
 
 Członkowie Stowarzyszenia dzielą się na:
 
-1) rzeczywistych,
+1) zwyczajnych,
 2) wspierających,
 3) uczestników,
 4) honorowych.
 
 #### §12
 
-1. Członkiem rzeczywistym Stowarzyszenia może być osoba fizyczna, która pragnie wnieść wkład w urzeczywistnienie celów Stowarzyszenia i jest aktywnie zaangażowana w życie społeczności programistów PHP.
-2. Członkiem Stowarzyszenia może być również obywatel innego kraju. Osoba taka składa pisemną deklarację popartą przez dwóch członków rzeczywistych Stowarzyszenia.
+1. Członkiem zwyczajnym Stowarzyszenia może być osoba fizyczna, która pragnie wnieść wkład w urzeczywistnienie celów Stowarzyszenia i jest aktywnie zaangażowana w życie społeczności programistów PHP.
+2. Członkiem Stowarzyszenia może być również obywatel innego kraju. Osoba taka składa pisemną deklarację popartą przez dwóch członków zwyczajnych Stowarzyszenia.
 
 #### §13
 
-Członek rzeczywisty ma prawo:
+Członek zwyczajny ma prawo:
 
 1) czynnego i biernego udziału w wyborach władz Stowarzyszenia,
 2) podejmowania inicjatyw, zgłaszania wniosków i głosowania na zebraniach Stowarzyszenia zgodnie z przepisami statutu,
@@ -85,23 +86,23 @@ Członek rzeczywisty ma prawo:
 #### §14
 
 1. Członkiem wspierającym może być osoba prawna lub fizyczna, zainteresowana celami Stowarzyszenia, która zadeklaruje stałą składkę członkowską na rzecz Stowarzyszenia i zostanie przyjęta przez Zarząd Stowarzyszenia na podstawie pisemnie złożonej deklaracji.
-2. Członek wspierający posiada wszystkie prawa członka rzeczywistego i może działać w Stowarzyszeniu za pośrednictwem swego przedstawiciela.
+2. Członek wspierający posiada wszystkie prawa członka zwyczajnego i może działać w Stowarzyszeniu za pośrednictwem swego przedstawiciela.
 
 #### §15
 
-1. Członkiem uczestnikiem Stowarzyszenia może być osoba niepełnoletnia, która za pisemną zgodą swego prawnego opiekuna oraz kierownictwa szkoły złoży wniosek do Zarządu Stowarzyszenia.
-2. Członkom uczestnikom przysługują prawa i obowiązki członka rzeczywistego, poza głosem stanowiącym oraz czynnym i biernym prawem wyborczym.
+1. Członkiem uczestnikiem Stowarzyszenia może być osoba niepełnoletnia, która za pisemną zgodą swego prawnego opiekuna złoży wniosek do Zarządu Stowarzyszenia.
+2. Członkom uczestnikom przysługują prawa i obowiązki członka zwyczajnego, poza głosem stanowiącym oraz czynnym i biernym prawem wyborczym.
 
 #### §16
 
 1. Członkiem honorowym może być osoba szczególnie zasłużona w urzeczywistnianiu celów Stowarzyszenia.
 2. Członkostwo honorowe nadaje Walne Zebranie.
-3. Członkom honorowym przysługują prawa i obowiązki członka rzeczywistego.
+3. Członkom honorowym przysługują prawa i obowiązki członka zwyczajnego.
 4. Członek honorowy zwolniony jest z opłacania składek członkowskich.
 
 #### §17
 
-Członek rzeczywisty i wspierający zobowiązany jest do:
+Członek zwyczajny i wspierający zobowiązany jest do:
 
 1) przestrzegania statutu, regulaminów i uchwał władz Stowarzyszenia,
 2) aktywnego uczestnictwa w realizacji celów Stowarzyszenia,
@@ -109,16 +110,16 @@ Członek rzeczywisty i wspierający zobowiązany jest do:
 
 #### §18
 
-1. Członków rzeczywistych Stowarzyszenia przyjmuje Zarząd Stowarzyszenia większością 2/3 głosów w obecności przynajmniej połowy członków Zarządu.
-2. Członków wspierających przyjmuje Zarząd Stowarzyszenia zwykłą większością głosów.
+1. Członków zwyczajnych Stowarzyszenia przyjmuje Zarząd Stowarzyszenia większością 2/3 głosów w obecności przynajmniej połowy członków Zarządu.
+2. Członków wspierających i członków uczestników STowarzyszenia przyjmuje Zarząd Stowarzyszenia zwykłą większością głosów.
 
 #### §19
 
-Członkowie założyciele Stowarzyszenia z chwilą rejestracji Stowarzyszenia stają się członkami rzeczywistymi.
+Członkowie założyciele Stowarzyszenia z chwilą rejestracji Stowarzyszenia stają się członkami zwyczajnymi.
 
 #### §20
 
-Członkostwo rzeczywiste Stowarzyszenia ustaje w razie:
+Członkostwo zwyczajne Stowarzyszenia ustaje w razie:
 
 1) pisemnej rezygnacji członka,
 2) skreślenia z listy członków przez Zarząd z powodu niepłacenia składek członkowskich przez okres trzech miesięcy,
@@ -131,14 +132,14 @@ Członkostwo rzeczywiste Stowarzyszenia ustaje w razie:
 
 Członkostwo wspierające ustaje w razie:
 
-1) rezygnacji zgłoszonej na piśmie Zarządowi Stowarzyszenia, uchwałą Zarządu,
+1) rezygnacji zgłoszonej na piśmie Zarządowi Stowarzyszenia,
 2) skreślenia z uzasadnionych przyczyn dokonanego uchwałą Zarządu,
 3) utraty osobowości prawnej w przypadku osoby prawnej będącej członkiem wspierającym,
 4) rozwiązania się Stowarzyszenia.
 
 #### §22
 
-Członek uczestnik traci przynależność do Stowarzyszenia z takich samych przyczyn jak członek rzeczywisty, a także po pisemnym wycofaniu zgody swego opiekuna lub kierownictwa szkoły.
+Członek uczestnik traci przynależność do Stowarzyszenia z takich samych przyczyn jak członek zwyczajny, a także po pisemnym wycofaniu zgody swego opiekuna.
 
 #### §23
 
@@ -167,9 +168,9 @@ Władzami Stowarzyszenia są:
 #### §26
 
 1. Kadencja Władz Stowarzyszenia trwa dwa lata.
-2. Wybór władz odbywa się w głosowaniu tajnym lub jawnym w zależności od uchwały Walnego Zebrania.
+2. Wybór władz odbywa się w głosowaniu tajnym lub jawnym, w zależności od uchwały Walnego Zebrania.
 3. Członkowie władz Stowarzyszenia mogą sprawować swoje funkcje dłużej niż jedną kadencję.
-4. Członkowie władz pełnią swe funkcje honorowo.
+4. Członkowie władz nie pobierają wynagrodzenia za pełniene swoich funkcji.
 
 ### Walne Zebranie
 
@@ -177,16 +178,16 @@ Władzami Stowarzyszenia są:
 
 1. Do kompetencji Walnego Zebrania należy:
     a) wybór Prezesa,
-    a) na wniosek Prezesa powołuje się i odwołuje Wiceprezesa, Sekretarza, Skarbnika i Członków Zarządu Stowarzyszenia,
-    b) nadawanie i pozbawianie członkostwa honorowego,
-    c) podejmowanie uchwał o przystępowaniu do stowarzyszeń,
-    d) uchwalanie zmian statutu Stowarzyszenia,
-    e) rozpatrywanie odwołań od decyzji Zarządu,
-    f) podjęcie uchwały o rozwiązaniu Stowarzyszenia,
-    g) opiniowanie i rozpatrywanie wniosków Komisji Rewizyjnej,
-    h) powoływanie władz Stowarzyszenia,
-    i) ustalanie wysokości składek,
-    j) podejmowanie uchwały dotyczącej bilansu rocznego oraz udzielenie absolutorium dla Zarządu
+    b) na wniosek Prezesa powołanie i odwołanie Wiceprezesa, Sekretarza, Skarbnika i Członków Zarządu Stowarzyszenia,
+    c) nadawanie i pozbawianie członkostwa honorowego,
+    d) podejmowanie uchwał o przystępowaniu do stowarzyszeń,
+    e) uchwalanie zmian statutu Stowarzyszenia,
+    f) rozpatrywanie odwołań od decyzji Zarządu,
+    g) podjęcie uchwały o rozwiązaniu Stowarzyszenia,
+    h) opiniowanie i rozpatrywanie wniosków Komisji Rewizyjnej,
+    i) powoływanie władz Stowarzyszenia,
+    j) ustalanie wysokości składek,
+    k) podejmowanie uchwały dotyczącej bilansu rocznego oraz udzielenie absolutorium dla Zarządu.
 2. Walne Zebrania powinno odbyć się co najmniej raz w roku.
 3. O terminie, miejscu i porządku obrad Walnego Zebrania, Zarząd zawiadamia członków pisemnie (lub elektronicznie e-mailem na wskazany pisemnie uprzednio adres) co najmniej na 14 dni przed terminem.
 4. Uchwały Walnego Zebrania zapadają zwykłą większością głosów:
@@ -210,7 +211,7 @@ Władzami Stowarzyszenia są:
 
 #### §30
 
-1. Organizację i tryb pracy Zarządu i jego Prezydium określa regulamin uchwalony przez Walne Zebranie.
+1. Zasady działania Zarządu ustala regulamin uchwalony przez Zarząd z zachowaniem postanowień Statutu.
 2. Posiedzenia Zarządu odbywają się w miarę potrzeb, lecz nie rzadziej niż jeden raz w kwartale i zwoływane są przez Prezesa, Wiceprezesa lub Sekretarza.
 
 #### §31
@@ -264,7 +265,7 @@ Do kompetencji Komisji Rewizyjnej należy:
 
 #### §36
 
-Organizację i tryb pracy Komisji Rewizyjnej określa regulamin uchwalony przez Walne Zebranie.
+Komisja Rewizyjna działa na podstawie uchwalonego przez siebie regulaminu.
 
 ## Rozdział V
 
@@ -272,7 +273,7 @@ Organizację i tryb pracy Komisji Rewizyjnej określa regulamin uchwalony przez 
 
 #### §37
 
-Stowarzyszenie może prowadzić działalność gospodarczą w oparciu o obowiązujące przepisy.
+Majątek Stowarzyszenia stanowią nieruchomości, ruchomości i fundusze.
 
 #### §38
 
@@ -291,11 +292,15 @@ Na fundusze Stowarzyszenia składają się:
 
 Dla ważności dokumentów dotyczących zobowiązań finansowych wymagane są podpisy Prezesa i Skarbnika, względnie dwóch innych uprawnionych członków Zarządu.
 
+#### §40
+
+Stowarzyszenie może prowadzić działalność gospodarczą w oparciu o obowiązujące przepisy.
+
 ## Rozdział VI
 
 ### Postanowienia końcowe
 
-#### §40
+#### §41
 
 1. Uchwałę o zmianie statutu lub rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie większością 2/3 głosów przy obecności:
     a) w pierwszym terminie - co najmniej połowy liczby członków Stowarzyszenia,
