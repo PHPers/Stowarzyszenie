@@ -72,7 +72,7 @@ Członkowie Stowarzyszenia dzielą się na:
 #### §12
 
 1. Członkiem zwyczajnym Stowarzyszenia może być osoba fizyczna, która pragnie wnieść wkład w urzeczywistnienie celów Stowarzyszenia i jest aktywnie zaangażowana w życie społeczności programistów PHP.
-2. Członkiem Stowarzyszenia może być również obywatel innego kraju. Osoba taka składa pisemną deklarację popartą przez dwóch członków zwyczajnych Stowarzyszenia.
+2. Członkiem Stowarzyszenia może być również obywatel innego kraju. Osoba taka składa deklarację popartą przez dwóch członków zwyczajnych Stowarzyszenia.
 
 #### §13
 
@@ -85,7 +85,7 @@ Członek zwyczajny ma prawo:
 
 #### §14
 
-1. Członkiem wspierającym może być osoba prawna lub fizyczna, zainteresowana celami Stowarzyszenia, która zadeklaruje stałą składkę członkowską na rzecz Stowarzyszenia i zostanie przyjęta przez Zarząd Stowarzyszenia na podstawie pisemnie złożonej deklaracji.
+1. Członkiem wspierającym może być osoba prawna lub fizyczna, zainteresowana celami Stowarzyszenia, która zadeklaruje stałą składkę członkowską na rzecz Stowarzyszenia i zostanie przyjęta przez Zarząd Stowarzyszenia na podstawie złożonej deklaracji.
 2. Członek wspierający posiada wszystkie prawa członka zwyczajnego i może działać w Stowarzyszeniu za pośrednictwem swego przedstawiciela.
 
 #### §15
@@ -121,7 +121,7 @@ Członkowie założyciele Stowarzyszenia z chwilą rejestracji Stowarzyszenia st
 
 Członkostwo zwyczajne Stowarzyszenia ustaje w razie:
 
-1) pisemnej rezygnacji członka,
+1) rezygnacji członka,
 2) skreślenia z listy członków przez Zarząd z powodu niepłacenia składek członkowskich przez okres trzech miesięcy,
 3) skazania prawomocnym wyrokiem sądu powszechnego na karę dodatkową utraty praw publicznych,
 4) śmierci członka,
@@ -189,7 +189,7 @@ Władzami Stowarzyszenia są:
     j) ustalanie wysokości składek,
     k) podejmowanie uchwały dotyczącej bilansu rocznego oraz udzielenie absolutorium dla Zarządu.
 2. Walne Zebrania powinno odbyć się co najmniej raz w roku.
-3. O terminie, miejscu i porządku obrad Walnego Zebrania, Zarząd zawiadamia członków pisemnie (lub elektronicznie e-mailem na wskazany pisemnie uprzednio adres) co najmniej na 14 dni przed terminem.
+3. O terminie, miejscu i porządku obrad Walnego Zebrania, Zarząd zawiadamia członków pisemnie lub elektronicznie e-mailem na wskazany uprzednio adres co najmniej na 14 dni przed terminem.
 4. Uchwały Walnego Zebrania zapadają zwykłą większością głosów:
     a) w pierwszym terminie przy obecności co najmniej 1/2 ogólnej liczby członków,
     b) w drugim terminie bez względu na liczbę obecnych.
