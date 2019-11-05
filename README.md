@@ -20,6 +20,11 @@ Repozytorium zawierające pliki robocze do założenia stowarzyszenia PHPers.
 ## Do przyjęcia przez Walne Zebranie
 
 1. Statut
-2. Regulamin pracy Zarządu
-3. Regulamin pracy Komisji Rewizyjnej
+2. Wybór Zarządu
+3. Wybór Komisji Rewizyjnej
 4. Uchwała o logo
+
+## Do przyjęcia przez stosowne organy
+
+1. Regulamin pracy Zarządu
+2. Regulamin pracy Komisji Rewizyjnej
