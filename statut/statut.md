@@ -18,7 +18,7 @@ Dla realizacji celów statutowych Stowarzyszenie może prowadzić działania poz
 
 #### §4
 
-Siedzibą Stowarzyszenia jest miasto Warszawa. 
+Siedzibą Stowarzyszenia jest miasto Warszawa.
 
 #### §5
 
@@ -189,6 +189,7 @@ Władzami Stowarzyszenia są:
     i) powoływanie władz Stowarzyszenia,
     j) ustalanie wysokości składek,
     k) podejmowanie uchwały dotyczącej bilansu rocznego oraz udzielenie absolutorium dla Zarządu.
+    l) opracowywanie i uchwalanie planów działania Stowarzyszenia.
 2. Walne Zebrania powinno odbyć się co najmniej raz w roku.
 3. O terminie, miejscu i porządku obrad Walnego Zebrania, Zarząd zawiadamia członków pisemnie lub elektronicznie e-mailem na wskazany uprzednio adres co najmniej na 14 dni przed terminem.
 4. Uchwały Walnego Zebrania zapadają zwykłą większością głosów:
