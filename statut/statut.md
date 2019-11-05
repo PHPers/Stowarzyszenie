@@ -18,7 +18,7 @@ Dla realizacji celów statutowych Stowarzyszenie może prowadzić działania poz
 
 #### §4
 
-Siedzibą Stowarzyszenia jest miasto Warszawa.
+Siedzibą Stowarzyszenia jest miasto Warszawa. 
 
 #### §5
 
@@ -54,7 +54,8 @@ Stowarzyszenie – działając zgodnie z prawem obowiązującym w Rzeczpospolite
 2) organizowanie szkoleń i konferencji,
 3) prowadzenie i rozwijanie strony internetowej promującej wiedzę na temat języka programowania PHP,
 4) udzielanie wsparcia za pomocą strony internetowej przez poszczególnych członków,
-5) tworzenie i dystrybucję materiałów szkoleniowych oraz reklamowych.
+5) tworzenie i dystrybucję materiałów szkoleniowych oraz reklamowych,
+6) wspieranie inicjatyw zgodnych z celami Stowarzyszenia.
 
 ## Rozdział III
 
@@ -106,7 +107,7 @@ Członek zwyczajny i wspierający zobowiązany jest do:
 
 1) przestrzegania statutu, regulaminów i uchwał władz Stowarzyszenia,
 2) aktywnego uczestnictwa w realizacji celów Stowarzyszenia,
-3) regularnego opłacania składki członkowskiej zgodnie z uchwałą Walnego Zebrania.
+3) regularnego i terminowego opłacania składki członkowskiej zgodnie z uchwałą Walnego Zebrania.
 
 #### §18
 
