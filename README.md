@@ -23,6 +23,7 @@ Repozytorium zawierające pliki robocze do założenia stowarzyszenia PHPers.
 2. Wybór Zarządu
 3. Wybór Komisji Rewizyjnej
 4. Uchwała o logo
+5. Uchwała o wysokości składki
 
 ## Do przyjęcia przez stosowne organy
 
