@@ -54,7 +54,8 @@ Stowarzyszenie – działając zgodnie z prawem obowiązującym w Rzeczpospolite
 2) organizowanie szkoleń i konferencji,
 3) prowadzenie i rozwijanie strony internetowej promującej wiedzę na temat języka programowania PHP,
 4) udzielanie wsparcia za pomocą strony internetowej przez poszczególnych członków,
-5) tworzenie i dystrybucję materiałów szkoleniowych oraz reklamowych.
+5) tworzenie i dystrybucję materiałów szkoleniowych oraz reklamowych,
+6) wspieranie inicjatyw zgodnych z celami Stowarzyszenia.
 
 ## Rozdział III
 
@@ -106,7 +107,7 @@ Członek zwyczajny i wspierający zobowiązany jest do:
 
 1) przestrzegania statutu, regulaminów i uchwał władz Stowarzyszenia,
 2) aktywnego uczestnictwa w realizacji celów Stowarzyszenia,
-3) regularnego opłacania składki członkowskiej zgodnie z uchwałą Walnego Zebrania.
+3) regularnego i terminowego opłacania składki członkowskiej zgodnie z uchwałą Walnego Zebrania.
 
 #### §18
 
@@ -188,6 +189,7 @@ Władzami Stowarzyszenia są:
     i) powoływanie władz Stowarzyszenia,
     j) ustalanie wysokości składek,
     k) podejmowanie uchwały dotyczącej bilansu rocznego oraz udzielenie absolutorium dla Zarządu.
+    l) opracowywanie i uchwalanie planów działania Stowarzyszenia.
 2. Walne Zebrania powinno odbyć się co najmniej raz w roku.
 3. O terminie, miejscu i porządku obrad Walnego Zebrania, Zarząd zawiadamia członków pisemnie lub elektronicznie e-mailem na wskazany uprzednio adres co najmniej na 14 dni przed terminem.
 4. Uchwały Walnego Zebrania zapadają zwykłą większością głosów:
