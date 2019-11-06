@@ -111,7 +111,7 @@ Członek zwyczajny i wspierający zobowiązany jest do:
 #### §18
 
 1. Członków zwyczajnych Stowarzyszenia przyjmuje Zarząd Stowarzyszenia większością 2/3 głosów w obecności przynajmniej połowy członków Zarządu.
-2. Członków wspierających i członków uczestników STowarzyszenia przyjmuje Zarząd Stowarzyszenia zwykłą większością głosów.
+2. Członków wspierających i członków uczestników Stowarzyszenia przyjmuje Zarząd Stowarzyszenia zwykłą większością głosów.
 
 #### §19
 
