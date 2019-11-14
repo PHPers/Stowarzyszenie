@@ -5,7 +5,7 @@
 2. Regulamin określa zasady i tryb działania Zarządu.
 
 #### §2
-1. Zarząd zarządza majątkiem i sprawami Stowarzyszenia, kieruje całokształtem działalności Stowarzyszenia w okresie pomiędzy posiedzeniami Walnego Zebrania Członków                  oraz reprezentuje Stowarzyszenie na zewnątrz.
+1. Zarząd zarządza majątkiem i sprawami Stowarzyszenia, kieruje całokształtem działalności Stowarzyszenia w okresie pomiędzy posiedzeniami Walnego Zebrania Członków oraz reprezentuje Stowarzyszenie na zewnątrz.
 2. Praca Zarządu opiera się na pracy społecznej jego członków.
 
 #### §3
@@ -44,7 +44,7 @@ s) przedkładanie corocznie Walnemu Zebraniu Członków do rozpatrzenia i zatwie
 
 #### §6
 1. Posiedzenia Zarządu odbywają się drogą elektroniczną (konferencja, wideokonferencja, komunikator elektroniczny) lub osobiście.
-2. O dacie, godzinie, miejscu, kanale komunikacji i porządku posiedzenia zawiadamia się wszystkich członków Zarządu w terminie do 24 godzin przed posiedzeniem.
+2. O dacie, godzinie, miejscu, kanale komunikacji i porządku posiedzenia zawiadamia się wszystkich członków Zarządu nie później niż na 24 godziny przed planowanym posiedzeniem.
 3. Z ważnych powodów posiedzenie może być zwołane bez zachowania ustalonego terminu powiadomienia.
 4. Obecność na posiedzeniu Zarządu jego członków jest obowiązkowa. O niemożności wzięcia udziału w posiedzeniu Zarządu należy powiadomić niezwłocznie zwołującego posiedzenie.
 

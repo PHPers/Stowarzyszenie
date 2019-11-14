@@ -210,7 +210,7 @@ W walnym zebraniu członków biorą udział z głosem decyzyjnym członkowie zwy
 #### §30
 
 1. Nadzwyczajne Walne Zebranie zwoływane jest na podstawie uchwały Zarządu na wniosek Komisji Rewizyjnej lub 1/5 członków Stowarzyszenia.
-2. Wniosek Komisji Rewizyjnej lub członków Stowarzyszenia winien określić sprawy, które ma rozpatrywać Walne Zebranie.
+2. Wniosek Komisji Rewizyjnej lub członków Stowarzyszenia winien określić sprawy, które ma rozpatrywać Nadzwyczajne Walne Zebranie.
 3. Nadzwyczajne Walne Zebranie jest zwoływane przez Zarząd w terminie nie dłuższym niż 30 dni od daty otrzymania wniosku.
 
 ### Zarząd
