@@ -44,18 +44,31 @@ Stowarzyszenie posiada osobowość prawną.
 
 #### §9
 
-Celem działania Stowarzyszenia jest promocja oraz edukacja w zakresie języka programowania PHP, a także integracja społeczności programistów tego języka w Polsce.
+Głównym celem działania Stowarzyszenia jest promocja języka programowania PHP oraz integracja społeczności programistów tego języka w Polsce i na świecie.
+Stowarzyszenie ma również na celu m.in.:
+1) Promowanie szeroko pojetych dobrych praktyk związanych z programowaniem i kulturą pracy,
+2) Szeroko pojęta pomoc osobom związanym z programowaniem ze szczególnym uwzględnieniem jezyka PHP,
+3) Szerzenie wiedzy na temat języka PHP,
+4) Szerzenie wiedzy w tematach związanych z programowaniem,
+5) Tworzenie otwartego i przyjaznego społeczeństwa programistów oraz osób związanych z programowaniem z głównym uwzględnieniem języka PHP,
+6) Organizacja spotkań integracyjno-networkingowych dla community,
+7) Współpraca z innymi instytucjami w zakresie tematów związanych z programowaniem, promocją programowania i integracji społeczeństwa,
+8) Wspieranie grup społecznych niedoreprezentowanych w środowisku programistów.
 
 #### §10
 
 Stowarzyszenie – działając zgodnie z prawem obowiązującym w Rzeczpospolitej Polskiej - dąży do realizacji swoich celów przez:
 
-1) organizowanie spotkań społeczności programistów PHP w Polsce,
-2) organizowanie szkoleń i konferencji,
-3) prowadzenie i rozwijanie strony internetowej promującej wiedzę na temat języka programowania PHP,
+1) organizowanie spotkań społeczności programistów PHP,
+2) organizowanie szkoleń, konferencji i warsztatów,
+3) prowadzenie i rozwijanie stron internetowych promujących wiedzę na temat programowania ze szczególnym uwzględnieniem języka PHP,
+4) tworzenie i rozwijanie serwisów internetowych pozwalających na swobodną wymianę wiedzy i doświadczeń związanych z programowaniem, 
 4) udzielanie wsparcia za pomocą strony internetowej przez poszczególnych członków,
 5) tworzenie i dystrybucję materiałów szkoleniowych oraz reklamowych,
-6) wspieranie inicjatyw zgodnych z celami Stowarzyszenia.
+6) wspieranie i realizowanie inicjatyw zgodnych z celami Stowarzyszenia,
+7) prowadzenie akcji informacyjnych w środkach masowego przekazu,
+8) inicjowanie i prowadzenie współpracy z innymi organizacjami pozarządowymi i instytucjami w zakresie realizacji programów wspierających działania statutowe.
+
 
 ## Rozdział III
 
@@ -210,7 +223,7 @@ W walnym zebraniu członków biorą udział z głosem decyzyjnym członkowie zwy
 #### §30
 
 1. Nadzwyczajne Walne Zebranie zwoływane jest na podstawie uchwały Zarządu na wniosek Komisji Rewizyjnej lub 1/5 członków Stowarzyszenia.
-2. Wniosek Komisji Rewizyjnej lub członków Stowarzyszenia winien określić sprawy, które ma rozpatrywać Nadzwyczajne Walne Zebranie.
+2. Wniosek Komisji Rewizyjnej lub członków Stowarzyszenia winien określić sprawy, które ma rozpatrywać Walne Zebranie.
 3. Nadzwyczajne Walne Zebranie jest zwoływane przez Zarząd w terminie nie dłuższym niż 30 dni od daty otrzymania wniosku.
 
 ### Zarząd
@@ -242,9 +255,16 @@ Do kompetencji Zarządu należy:
 10) reprezentowanie Stowarzyszenia na zewnątrz,
 11) powoływanie komisji problemowych i zespołów roboczych.
 
+#### §34
+
+Do składania oświadczeń woli w imieniu Stowarzyszenia upoważnionych jest:
+1) dwóch członków Zarządu działających łącznie, w tym zawsze Prezes bądź Wiceprezes.
+2) pełnomocnik upoważniony do danej czynności przez Prezesa bądż Wiceprezesa oraz innego członka Zarządu, działających w tym celu łącznie.
+
+
 ### Prezydium Zarządu
 
-#### §34
+#### §35
 
 Prezydium Zarządu w okresie pomiędzy posiedzeniami Zarządu prowadzi działalność w zakresie:
 
@@ -253,21 +273,21 @@ Prezydium Zarządu w okresie pomiędzy posiedzeniami Zarządu prowadzi działaln
 3) opracowywania projektów planów działalności i budżetu Stowarzyszenia,
 4) inicjowania i prowadzenia innych spraw wynikających z uchwał Zarządu i postanowień statutu.
 
-#### §35
+#### §36
 
 1. Decyzje Prezydium zapadają większością głosów przy obecności co najmniej 1/2 członków Prezydium i podlegają przedstawianiu na najbliższym posiedzeniu Zarządu do zatwierdzenia.
 2. Posiedzenia Prezydium odbywają się w miarę potrzeby, nie rzadziej niż jeden raz na dwa miesiące.
 
 ### Komisja Rewizyjna
 
-#### §36
+#### §37
 
 1. Komisja Rewizyjna składa się z 4 członków, którzy wybierają spośród siebie przewodniczącego i sekretarza.
 2. W posiedzeniu Zarządu z głosem doradczym może brać udział upoważniony członek Komisji Rewizyjnej.
 3. Członkowie Komisji Rewizyjnej nie mogą pełnić żadnych innych funkcji we władzach Stowarzyszenia.
 4. Uchwały Komisji Rewizyjnej zapadają zwykłą większością głosów przy obecności co najmniej 1/2 liczby członków Komisji. W wypadku równej liczby głosów decyduje głos Przewodniczącego.
 
-#### §37
+#### §38
 
 Do kompetencji Komisji Rewizyjnej należy:
 
@@ -275,7 +295,7 @@ Do kompetencji Komisji Rewizyjnej należy:
 2) występowanie do Zarządu z wnioskami wynikającymi z ustaleń kontroli i żądanie wyjaśnień oraz usunięcia stwierdzonych uchybień,
 3) sporządzanie sprawozdań ze swej działalności i występowanie do Walnego Zebrania z wnioskiem o absolutorium dla Zarządu.
 
-#### §38
+#### §39
 
 Komisja Rewizyjna działa na podstawie uchwalonego przez siebie regulaminu.
 
@@ -283,11 +303,11 @@ Komisja Rewizyjna działa na podstawie uchwalonego przez siebie regulaminu.
 
 ### Majątek i fundusze Stowarzyszenia
 
-#### §39
+#### §40
 
 Majątek Stowarzyszenia stanowią nieruchomości, ruchomości i fundusze.
 
-#### §40
+#### §41
 
 Na fundusze Stowarzyszenia składają się:
 
@@ -298,13 +318,16 @@ Na fundusze Stowarzyszenia składają się:
 5) wpływy z loterii i aukcji,
 6) dotacje budżetowe, subwencje,
 7) dochody z majątku ruchomego i nieruchomego,
-8) inne wpływy.
-
-#### §41
-
-Dla ważności dokumentów dotyczących zobowiązań finansowych wymagane są podpisy Prezesa i Skarbnika, względnie dwóch innych uprawnionych członków Zarządu.
+8) dotacje,
+9) inne wpływy.
 
 #### §42
+
+Dla ważności dokumentów dotyczących zobowiązań finansowych wymagany jest podpis:
+1) Prezesa i Skarbnika, względnie dwóch innych uprawnionych członków Zarządu, albo
+2) Pełnomocnika powołanego na podstawie IV,§8,ptk 2).
+
+#### §43
 
 Stowarzyszenie może prowadzić działalność gospodarczą w oparciu o obowiązujące przepisy.
 
@@ -312,7 +335,7 @@ Stowarzyszenie może prowadzić działalność gospodarczą w oparciu o obowiąz
 
 ### Postanowienia końcowe
 
-#### §43
+#### §44
 
 1. Uchwałę o zmianie statutu lub rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie większością 2/3 głosów przy obecności:
     a) w pierwszym terminie - co najmniej połowy liczby członków Stowarzyszenia,
