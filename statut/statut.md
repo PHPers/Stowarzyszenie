@@ -42,40 +42,39 @@ Stowarzyszenie posiada osobowość prawną.
 
 ### Cele i środki działania
 
-#### §9
+#### §1
 
 Głównym celem działania Stowarzyszenia jest promocja języka programowania PHP oraz integracja społeczności programistów tego języka w Polsce i na świecie.
 Stowarzyszenie ma również na celu m.in.:
-1) Promowanie ogólno pojetych dobrych praktyk związanych z programowaniem i kulturą pracy,
-2) Ogólno pojęta pomoc osobm związanym z programowaniem ze szcególnym uwzględnieniem jezyka PHP,
+1) Promowanie szeroko pojetych dobrych praktyk związanych z programowaniem i kulturą pracy,
+2) Szeroko pojęta pomoc osobom związanym z programowaniem ze szczególnym uwzględnieniem jezyka PHP,
 3) Szerzenie wiedzy na temat języka PHP,
 4) Szerzenie wiedzy w tematach związanych z programowaniem,
 5) Tworzenie otwartego i przyjaznego społeczeństwa programistów oraz osób związanych z programowaniem z głównym uwzględnieniem języka PHP,
-6) Robienie spotkań integracyjno-networkingowych dla community,
-7) Współpraca z innymi instytucjami w zakresie etematów związanych z programowaniem, promocją progrmowania i integracji społeczeństwa,
-- ?? czym więcej różnych tym lepiej - później łatwiej będzie robić jakieś rzeczy, albo ogarniać faktury
+6) Organizacja spotkań integracyjno-networkingowych dla community,
+7) Współpraca z innymi instytucjami w zakresie tematów związanych z programowaniem, promocją programowania i integracji społeczeństwa,
+8) Wspieranie grup społecznych niedoreprezentowanych w środowisku programistów.
 
-#### §10
+#### §2
 
 Stowarzyszenie – działając zgodnie z prawem obowiązującym w Rzeczpospolitej Polskiej - dąży do realizacji swoich celów przez:
 
 1) organizowanie spotkań społeczności programistów PHP,
 2) organizowanie szkoleń, konferencji i warsztatów,
 3) prowadzenie i rozwijanie stron internetowych promujących wiedzę na temat programowania ze szczególnym uwzględnieniem języka PHP,
-4) tworzenie i rozwijanie miejsc w internecie (fora / strony internetowe / platform / blogi itp) pozwalających na swobodną wymianę wiedzy i doświadczeń związanych z programowaniem, 
+4) tworzenie i rozwijanie serwisów internetowych pozwalających na swobodną wymianę wiedzy i doświadczeń związanych z programowaniem, 
 4) udzielanie wsparcia za pomocą strony internetowej przez poszczególnych członków,
 5) tworzenie i dystrybucję materiałów szkoleniowych oraz reklamowych,
 6) wspieranie i realizowanie inicjatyw zgodnych z celami Stowarzyszenia,
 7) prowadzenie akcji informacyjnych w środkach masowego przekazu,
-8) Inicjowanie i prowadzenie współpracy z innymi organizacjami pozarządowymi i instytucjami w zakresie realizacji programów wspierających działania statutowe.
+8) inicjowanie i prowadzenie współpracy z innymi organizacjami pozarządowymi i instytucjami w zakresie realizacji programów wspierających działania statutowe.
 
-?? tutaj też czym więcej tym lepiej
 
 ## Rozdział III
 
 ### Członkowie ich prawa i obowiązki
 
-#### §11
+#### §1
 
 Członkowie Stowarzyszenia dzielą się na:
 
@@ -84,12 +83,12 @@ Członkowie Stowarzyszenia dzielą się na:
 3) uczestników,
 4) honorowych.
 
-#### §12
+#### §2
 
 1. Członkiem zwyczajnym Stowarzyszenia może być osoba fizyczna, która pragnie wnieść wkład w urzeczywistnienie celów Stowarzyszenia i jest aktywnie zaangażowana w życie społeczności programistów PHP.
 2. Członkiem Stowarzyszenia może być również obywatel innego kraju.
 
-#### §13
+#### §3
 
 Członek zwyczajny ma prawo:
 
@@ -98,25 +97,25 @@ Członek zwyczajny ma prawo:
 3) zgłaszania opinii, postulatów i wniosków dotyczących działalności Stowarzyszenia,
 4) legitymowania się przynależnością do Stowarzyszenia.
 
-#### §14
+#### §4
 
 1. Członkiem wspierającym może być osoba prawna lub fizyczna, zainteresowana celami Stowarzyszenia, która zadeklaruje stałą składkę członkowską na rzecz Stowarzyszenia i zostanie przyjęta przez Zarząd Stowarzyszenia na podstawie złożonej deklaracji.
 2. Członek wspierający może działać w Stowarzyszeniu za pośrednictwem swego przedstawiciela.
 3. Członkowie wspierający nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak brać udział z głosem doradczym w statutowych władzach Stowarzyszenia. Poza tym posiadają takie prawa jak członkowie zwyczajni.
 
-#### §15
+#### §5
 
 1. Członkiem uczestnikiem Stowarzyszenia może być osoba niepełnoletnia, która za pisemną zgodą swego prawnego opiekuna złoży wniosek do Zarządu Stowarzyszenia.
 2. Członkom uczestnikom przysługują prawa i obowiązki członka zwyczajnego, poza głosem stanowiącym oraz czynnym i biernym prawem wyborczym.
 
-#### §16
+#### §6
 
 1. Członkiem honorowym może być osoba szczególnie zasłużona w urzeczywistnianiu celów Stowarzyszenia.
 2. Członkostwo honorowe nadaje Walne Zebranie.
 3. Członkom honorowym przysługują prawa i obowiązki członka zwyczajnego.
 4. Członek honorowy zwolniony jest z opłacania składek członkowskich.
 
-#### §17
+#### §7
 
 Członek zwyczajny zobowiązany jest do:
 
@@ -124,21 +123,21 @@ Członek zwyczajny zobowiązany jest do:
 2) aktywnego uczestnictwa w realizacji celów Stowarzyszenia,
 3) regularnego i terminowego opłacania składki członkowskiej zgodnie z uchwałą Walnego Zebrania.
 
-#### §18
+#### §8
 
 Członek wspierający ma obowiązek wywiązywania się z zadeklarowanych świadczeń, przestrzegania statutu oraz uchwał władz Stowarzyszenia. 
 
-#### §19
+#### §9
 
 1. Członkiem zwyczajnym Stowarzyszenia może być każda osoba fizyczna, która złoży deklarację popartą rekomendacją dwóch członków Stowarzyszenia. 
 2. Członków zwyczajnych Stowarzyszenia przyjmuje Zarząd Stowarzyszenia większością 2/3 głosów w obecności przynajmniej połowy członków Zarządu.
 3. Członków wspierających i członków uczestników Stowarzyszenia przyjmuje Zarząd Stowarzyszenia zwykłą większością głosów.
 
-#### §20
+#### §10
 
 Członkowie założyciele Stowarzyszenia z chwilą rejestracji Stowarzyszenia stają się członkami zwyczajnymi.
 
-#### §21
+#### §11
 
 Członkostwo zwyczajne Stowarzyszenia ustaje w razie:
 
@@ -149,7 +148,7 @@ Członkostwo zwyczajne Stowarzyszenia ustaje w razie:
 5) rozwiązania się Stowarzyszenia,
 6) z innych przyczyn na podstawie uchwały Zarządu.
 
-#### §22
+#### §12
 
 Członkostwo wspierające ustaje w razie:
 
@@ -158,11 +157,11 @@ Członkostwo wspierające ustaje w razie:
 3) utraty osobowości prawnej w przypadku osoby prawnej będącej członkiem wspierającym,
 4) rozwiązania się Stowarzyszenia.
 
-#### §23
+#### §13
 
 Członek uczestnik traci przynależność do Stowarzyszenia z takich samych przyczyn jak członek zwyczajny, a także po pisemnym wycofaniu zgody swego opiekuna.
 
-#### §24
+#### §14
 
 Członkostwo honorowe ustaje w razie:
 
@@ -170,7 +169,7 @@ Członkostwo honorowe ustaje w razie:
 2) pozbawienia tej godności uchwałą Walnego Zebrania na wniosek Zarządu,
 3) rozwiązania się Stowarzyszenia.
 
-#### §25
+#### §15
 
 Członkom skreślonym lub wykreślonym z listy członków przysługuje prawo wniesienia odwołania do najbliższego Walnego Zebrania.
 
@@ -178,7 +177,7 @@ Członkom skreślonym lub wykreślonym z listy członków przysługuje prawo wni
 
 ### Władze Stowarzyszenia
 
-#### §26
+#### §1
 
 Władzami Stowarzyszenia są:
 
@@ -186,7 +185,7 @@ Władzami Stowarzyszenia są:
 2) Zarząd
 3) Komisja Rewizyjna
 
-#### §27
+#### §2
 
 1. Kadencja Władz Stowarzyszenia trwa dwa lata.
 2. Wybór władz odbywa się w głosowaniu tajnym lub jawnym, w zależności od uchwały Walnego Zebrania.
@@ -195,11 +194,11 @@ Władzami Stowarzyszenia są:
 
 ### Walne Zebranie
 
-#### §28
+#### §3
 
 W walnym zebraniu członków biorą udział z głosem decyzyjnym członkowie zwyczajni oraz honorowi stowarzyszenia, z głosem doradczym członkowie wspierający, członkowie uczestnicy oraz zaproszeni goście.
 
-#### §29
+#### §4
 
 1. Do kompetencji Walnego Zebrania należy:
     a) wybór Prezesa,
@@ -221,26 +220,26 @@ W walnym zebraniu członków biorą udział z głosem decyzyjnym członkowie zwy
     b) w drugim terminie bez względu na liczbę obecnych.
 5. Głosowanie uchwał Walnego Zebrania odbywa się jawnie. Wniosek o utajnienie głosowania uchwał musi być przegłosowany zwykłą większością głosów przez Walne Zebranie.
 
-#### §30
+#### §5
 
 1. Nadzwyczajne Walne Zebranie zwoływane jest na podstawie uchwały Zarządu na wniosek Komisji Rewizyjnej lub 1/5 członków Stowarzyszenia.
-2. Wniosek Komisji Rewizyjnej lub członków Stowarzyszenia winien określić sprawy, które ma rozpatrywać Nadzwyczajne Walne Zebranie.
+2. Wniosek Komisji Rewizyjnej lub członków Stowarzyszenia winien określić sprawy, które ma rozpatrywać Walne Zebranie.
 3. Nadzwyczajne Walne Zebranie jest zwoływane przez Zarząd w terminie nie dłuższym niż 30 dni od daty otrzymania wniosku.
 
 ### Zarząd
 
-#### §31
+#### §6
 
 1. Zarząd składa się z 5 osób wybranych przez Walne Zebranie.
 2. Prezydium Zarządu składa się z Prezesa, Wiceprezesa, Sekretarza i Skarbnika.
 3. Uchwały Zarządu zapadają większością głosów przy obecności co najmniej 1/2 liczby członków Zarządu, w tym Prezesa lub Wiceprezesa. W razie równej liczby głosów decyduje głos przewodniczącego zebrania.
 
-#### §32
+#### §7
 
 1. Zasady działania Zarządu ustala regulamin uchwalony przez Zarząd z zachowaniem postanowień Statutu.
 2. Posiedzenia Zarządu odbywają się w miarę potrzeb, lecz nie rzadziej niż jeden raz w kwartale i zwoływane są przez Prezesa, Wiceprezesa lub Sekretarza.
 
-#### §33
+#### §8
 
 Do kompetencji Zarządu należy:
 
@@ -256,14 +255,16 @@ Do kompetencji Zarządu należy:
 10) reprezentowanie Stowarzyszenia na zewnątrz,
 11) powoływanie komisji problemowych i zespołów roboczych.
 
-#### §34
+#### §9
 
-Do składania oświadczeń woli w imieniu Stowarzyszenia upoważnionych jest dwóch członków Zarządu działających łącznie, w tym zawsze Prezes bądź Wiceprezes. Stowarzyszenie może także reprezentować pełnomocnik  upoważniony  do  danej  czynności  przez  Prezesa bądż Wiceprezesa  oraz  innego  członka Zarządu, działających w tym celu łącznie.
+Do składania oświadczeń woli w imieniu Stowarzyszenia upoważnionych jest:
+1) dwóch członków Zarządu działających łącznie, w tym zawsze Prezes bądź Wiceprezes.
+2) pełnomocnik upoważniony do danej czynności przez Prezesa bądż Wiceprezesa oraz innego członka Zarządu, działających w tym celu łącznie.
 
 
 ### Prezydium Zarządu
 
-#### §35
+#### §10
 
 Prezydium Zarządu w okresie pomiędzy posiedzeniami Zarządu prowadzi działalność w zakresie:
 
@@ -272,21 +273,21 @@ Prezydium Zarządu w okresie pomiędzy posiedzeniami Zarządu prowadzi działaln
 3) opracowywania projektów planów działalności i budżetu Stowarzyszenia,
 4) inicjowania i prowadzenia innych spraw wynikających z uchwał Zarządu i postanowień statutu.
 
-#### §36
+#### §11
 
 1. Decyzje Prezydium zapadają większością głosów przy obecności co najmniej 1/2 członków Prezydium i podlegają przedstawianiu na najbliższym posiedzeniu Zarządu do zatwierdzenia.
 2. Posiedzenia Prezydium odbywają się w miarę potrzeby, nie rzadziej niż jeden raz na dwa miesiące.
 
 ### Komisja Rewizyjna
 
-#### §37
+#### §12
 
 1. Komisja Rewizyjna składa się z 4 członków, którzy wybierają spośród siebie przewodniczącego i sekretarza.
 2. W posiedzeniu Zarządu z głosem doradczym może brać udział upoważniony członek Komisji Rewizyjnej.
 3. Członkowie Komisji Rewizyjnej nie mogą pełnić żadnych innych funkcji we władzach Stowarzyszenia.
 4. Uchwały Komisji Rewizyjnej zapadają zwykłą większością głosów przy obecności co najmniej 1/2 liczby członków Komisji. W wypadku równej liczby głosów decyduje głos Przewodniczącego.
 
-#### §38
+#### §13
 
 Do kompetencji Komisji Rewizyjnej należy:
 
@@ -294,7 +295,7 @@ Do kompetencji Komisji Rewizyjnej należy:
 2) występowanie do Zarządu z wnioskami wynikającymi z ustaleń kontroli i żądanie wyjaśnień oraz usunięcia stwierdzonych uchybień,
 3) sporządzanie sprawozdań ze swej działalności i występowanie do Walnego Zebrania z wnioskiem o absolutorium dla Zarządu.
 
-#### §39
+#### §14
 
 Komisja Rewizyjna działa na podstawie uchwalonego przez siebie regulaminu.
 
@@ -302,11 +303,11 @@ Komisja Rewizyjna działa na podstawie uchwalonego przez siebie regulaminu.
 
 ### Majątek i fundusze Stowarzyszenia
 
-#### §40
+#### §1
 
 Majątek Stowarzyszenia stanowią nieruchomości, ruchomości i fundusze.
 
-#### §41
+#### §2
 
 Na fundusze Stowarzyszenia składają się:
 
@@ -320,11 +321,13 @@ Na fundusze Stowarzyszenia składają się:
 8) dotacje,
 9) inne wpływy.
 
-#### §42
+#### §3
 
-Dla ważności dokumentów dotyczących zobowiązań finansowych wymagane są podpisy Prezesa i Skarbnika, względnie dwóch innych uprawnionych członków Zarządu bądź Pełnomocnik powołany na podstawie §34.
+Dla ważności dokumentów dotyczących zobowiązań finansowych wymagany jest podpis:
+1) Prezesa i Skarbnika, względnie dwóch innych uprawnionych członków Zarządu, albo
+2) Pełnomocnika powołanego na podstawie IV,§8,ptk 2).
 
-#### §43
+#### §4
 
 Stowarzyszenie może prowadzić działalność gospodarczą w oparciu o obowiązujące przepisy.
 
@@ -332,7 +335,7 @@ Stowarzyszenie może prowadzić działalność gospodarczą w oparciu o obowiąz
 
 ### Postanowienia końcowe
 
-#### §44
+#### §1
 
 1. Uchwałę o zmianie statutu lub rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie większością 2/3 głosów przy obecności:
     a) w pierwszym terminie - co najmniej połowy liczby członków Stowarzyszenia,
